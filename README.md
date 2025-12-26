@@ -1,2 +1,2 @@
-# Blogger-microblog-theme
-Blogger microblog style theme
+# Demo
+https://amertoglu.blogspot.com
