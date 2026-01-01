@@ -64,6 +64,7 @@
       color: #536471;
     }
    .follow {
+      width: 50px;
       color: white;
       background: #000;
       border: 1px solid #eee;
