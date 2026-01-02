@@ -355,7 +355,7 @@
     <img class='post-avatar' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5n9rd4ChNTca_BHMStGTcNfEZZhss3PgdZZq6ipfFSxpL46vGo0Vas8QBnH3aenC7ERzP2PoMV2QZVZZw5ZtwquFQttoQEj8wT_wKhRYDtcXJ-ffKHQhMtPlrbYjCLrNQH7B7X5qfGwVfovrBI2d56mgvjvEE0LPk_AgqBQqOnV0PYA/s1600/photo.png'/>
 
     <div class='post-user'>
-      <span class='post-name'>A. Mertoglu</span>
+      <span class='post-name'><data:blog.title/></span>
       <span class='post-date'><a expr:href='data:post.url' style='border:0'><data:post.timestamp/></a></span>
     </div>
   </div>
